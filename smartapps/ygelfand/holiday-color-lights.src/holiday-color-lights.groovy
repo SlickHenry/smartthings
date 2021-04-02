@@ -107,6 +107,7 @@ def allHolidayList() {
     [name: "Valentine's Day", day: '02/14', colors: ["Red", "Pink", "Rasberry", "Purple", "Indigo"] ],
     [name: "Presidents Day", day: '02/20', colors: ["Red", "White", "Blue" ] ],
     [name: "St. Patrick's Day", day: '03/17', colors: ["Green", "Orange"] ],
+    [name: "Autism Awareness Day", day: '04/02', colors: ["Blue", "Navy Blue"] ],	    
     [name: "Easter", day: '04/16', colors: [ 'Pink', 'Turquoise', 'Aqua' ] ],
     [name: "Mothers Day", day: '05/14', colors: ['Red', 'Pink'] ],
     [name: "Memorial Day", day: '05/29', colors: ["Red", "White", "Blue" ] ],
